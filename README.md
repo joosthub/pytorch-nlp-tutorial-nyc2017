@@ -16,5 +16,8 @@ python -m ipykernel install --user --name dl4nlp
 git clone https://github.com/pytorch/text.git
 cd text
 python setup.py install
+
+cd ..
+pip install -r requirements.txt
 ```
 
