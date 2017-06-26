@@ -5,3 +5,4 @@ seaborn
 numpy
 matplotlib
 scikit-learn
+tqdm
