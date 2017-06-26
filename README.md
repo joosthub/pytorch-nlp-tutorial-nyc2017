@@ -1,5 +1,14 @@
 # pytorch-nlp-tutorial
 
+## Data
+1. mkdir day_1/data
+2. copy contents of this drive in the data folder day_1/data
+https://drive.google.com/open?id=0B1sSP-aCtfuHRFJWTkdUbjFUZDQ
+3. Download glove and unpack contents in day_1/data/glove
+[glove.6B.zip](http://nlp.stanford.edu/data/glove.6B.zip)
+
+
+
 ```
 # install anaconda (if needed)
 
