@@ -1,6 +1,8 @@
 # pytorch-nlp-tutorial
+## Day 1
+[Day 1 Slides](https://drive.google.com/open?id=1uCzIGJT2ni9_ZlcwUHEcUJuyJbjHTKc3izsFrPyHw4M)
 
-## Data
+### Day 1 Data
 ```
 1. mkdir day_1/data
 2. copy contents of this drive in the data folder day_1/data
@@ -11,13 +13,17 @@ https://drive.google.com/open?id=0B1sSP-aCtfuHRFJWTkdUbjFUZDQ
 http://nlp.stanford.edu/data/glove.6B.zip
 ```
 
+## Day 2
+[Day 2 Slides](https://drive.google.com/open?id=1ZRzwllU7tMlQJevGhLYJo_woEA4ABPXUQHGFb8Ijbws)
+
+
 ### Day 2 Data
 
 1. [Trump Tweets](https://drive.google.com/a/joostware.com/file/d/0B2hg7DTHpfLsNUxFcndiNlVxSmM/view?usp=sharing)
 2. Not-pruned Names dataset
     a. [Train](https://drive.google.com/open?id=0B2hg7DTHpfLsTVNfNnpDVGZmZTQ)
     b. [Test](https://drive.google.com/open?id=0B2hg7DTHpfLsWmtQT1lXREx2Qmc)
-    c. [Delip's Version](https://drive.google.com/open?id=0B2hg7DTHpfLsMzg5QlRyMzhfQ1U)
+    c. [Day One Version](https://drive.google.com/open?id=0B2hg7DTHpfLsMzg5QlRyMzhfQ1U)
 3. [Stanford NLI dataset](https://drive.google.com/open?id=0B2hg7DTHpfLsTy1BTlk0dTBwREU)
 4. [Amazon Reviews small train](https://drive.google.com/open?id=0B2hg7DTHpfLsbk1yME5HN0dxVmc)
 
